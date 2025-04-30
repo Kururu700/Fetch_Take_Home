@@ -6,9 +6,9 @@ Good morning!
 
 I conducted an analysis of our user, transaction, and product data and would like to share key insights and action items with you.
 
-One important finding is related to user growth as a metric for Fetch's performance. We’ve experienced significant growth in our user base, particularly in earlier periods, with annual increases reaching as high as 819%. However, we've noticed a decline of approximately 42% in the most recent year, suggesting potential challenges in user engagement or market saturation. This growth pattern indicates a strong initial product-market fit, but we may need to reevaluate our strategies to sustain this momentum. Currently, our user demographic largely consists of females aged 25 to 55, which could serve as a foundation for our next marketing campaign.
+One important trend is related to user growth as a metric for Fetch's performance. We’ve experienced significant growth in our user base, particularly in earlier periods, with annual increases reaching as high as 819%. However, we've noticed a decline of approximately 42% in the most recent year, suggesting potential challenges in user engagement or market saturation. This growth pattern indicates a strong initial product-market fit, but we may need to reevaluate our strategies to sustain this momentum. Currently, our user demographic largely consists of females aged 25 to 55, which could serve as a foundation for our next marketing campaign.
 
-While these insights are valuable, I want to highlight some data quality issues:
+While this insight are valuable, I want to highlight some data quality issues:
 
 1.Missing Values: We are seeing significant null values in critical metrics such as user birth date, state, gender, receipt barcode, final sale, and brand. These omissions may arise from optional fields during user registration. Collecting accurate birthday and gender information is essential for understanding our customer demographics. Implementing a more user-friendly process for gathering this information could improve our data quality.
 
